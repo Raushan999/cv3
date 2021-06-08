@@ -1,0 +1,21 @@
+
+       body {
+            background-color:#dabeaa;
+       }
+        h1 {
+          color :#da7c4c;
+
+        }
+        img:hover {
+          background-color:gold;
+         }
+
+    h2{
+     background-color : #955251;
+     border-style : dotted;
+     height : 1%;
+     width : 20%;
+    }
+    .rkp {
+     border-radius:50%
+   }
